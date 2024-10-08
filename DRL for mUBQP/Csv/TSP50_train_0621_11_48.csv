@@ -1,0 +1,5 @@
+time,epoch,batch,loss,cost
+0min5sec,0,10,0.185,16.521
+0min12sec,0,20,0.242,20.534
+0min13sec,0,30,0.260,22.237
+0min11sec,0,40,0.256,22.935
